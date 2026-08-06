@@ -35,11 +35,6 @@
 
 ---
 
-### 📁 Academic Projects
-* 🏥 **Localized Anti-Rabies Vaccination Database System:** Management system with pet registration and automated SMS reminders for Magdalena, Laguna.
-
----
-
 ### 📬 Contact Information
 * 📧 **Email:** jaypeegirl3@gmail.com
 * 🐙 **GitHub:** [github.com/KeithC34](https://github.com/KeithC34)
