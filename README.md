@@ -35,6 +35,12 @@
 
 ---
 
+### 📁 Academic & Thesis Projects
+* 🐄 **Development of a Web and Mobile Geographic Information System for Livestock Health Surveillance and Supply Management in Magdalena** *(Ongoing Thesis)*
+* 🏥 **Localized Anti-Rabies Vaccination Database System:** Management system with pet registration and automated SMS reminders for Magdalena, Laguna.
+
+---
+
 ### 📬 Contact Information
 * 📧 **Email:** jaypeegirl3@gmail.com
 * 🐙 **GitHub:** [github.com/KeithC34](https://github.com/KeithC34)
